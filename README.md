@@ -57,3 +57,5 @@ you can optimuze or get refrence from this files.
             └── index.php
 ```
 this is for our nginx example.
+
+![graph](./graph.png)
